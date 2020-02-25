@@ -263,6 +263,9 @@ class _MyAppState extends State<MyApp> {
                           _num2ctrl.clear();
                           _num3ctrl.clear();
                           _num4ctrl.clear();
+                          ans='';
+                          fraction=0;
+                          fraction1=0;
                         });
                       },
                     ),
